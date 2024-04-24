@@ -4,7 +4,7 @@
 
 This repository showcases two projects from CS350 - Emerging Systems Architectures and Technologies. These projects demonstrate my ability to design and implement interface software to control hardware components, evaluate hardware architecture designs, and recommend systems based on business requirements.
 
-## Projects Detail
+## Project Details
 
 ### Milestone Two
 
